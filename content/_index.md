@@ -41,28 +41,22 @@ sections:
         Please reach out to collaborate 😃
     design:
       columns: '1'
-  - block: collection
+  - block: page
     id: experience
     content:
-      title: Experience
-      filters:
-        folders:
-          - experience     # ← 读取原来 experience/ 文件夹里的条目
-    design:
-      view: card
-      columns: 1
+      page: experience.md
 
-  - block: collection
-    id: papers
-    content:
-      title: Featured Publications
-      filters:
-        folders:
-          - publication
-        featured_only: true
-    design:
-      view: article-grid
-      columns: 2
+#  - block: collection
+#    id: papers
+#    content:
+#      title: Featured Publications
+#      filters:
+#        folders:
+#          - publication
+#        featured_only: true
+#    design:
+#      view: article-grid
+#      columns: 2
   - block: collection
     content:
       title: Recent Publications
