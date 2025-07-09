@@ -41,16 +41,16 @@ sections:
         Please reach out to collaborate 😃
     design:
       columns: '1'
- - block: collection
-   id: experience
-   content:
-     title: Experience
-     filters:
-       folders:
-         -experience
-     design:
-      view: card
-      columns: 1
+   - block: collection
+     id: experience
+     content:
+       title: Experience
+       filters:
+         folders:
+           -experience
+       design:
+        view: card
+        columns: 1
 #  - block: collection
 #    id: papers
 #    content:
