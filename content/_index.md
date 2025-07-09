@@ -20,6 +20,7 @@ sections:
         url: uploads/resume.pdf
     design:
       css_class: dark
+      show_education: false  
       background:
         color: black          # ← 背景纯色
         image:
