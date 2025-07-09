@@ -186,7 +186,6 @@ skills:
       Object-oriented programming (OOP) lets you specify relationships between functions and the objects that they can act on, helping you manage complexity in your code. This is an intermediate level course, providing an introduction to OOP, using the S3 and R6 systems. S3 is a great day-to-day R programming tool that simplifies some of the functions that you write. R6 is especially useful for industry-specific analyses, working with web APIs, and building GUIs.
 ---
 
-markdown<br># Hello<br>
 
-I am a postdoctoral researcher at the [Institute of Mathematics for Industry (IMI)](https://www.imi.kyushu-u.ac.jp/en/) and the [Joint Graduate School of Mathematics for Innovation (JPMI)](https://www.jgmi.kyushu-u.ac.jp/en/) at Kyushu University, Japan. I earned my Ph.D. in Mathematics from Kyushu University under the supervision of Professor [Hiroki Masuda](https://www.ms.u-tokyo.ac.jp/~hmasuda/hmhp.html). My research lies at the intersection of probability theory, statistics, and deep learning, with a particular emphasis on stochastic differential equations and their applications.
+Hello, I am a postdoctoral researcher at the [Institute of Mathematics for Industry (IMI)](https://www.imi.kyushu-u.ac.jp/en/) and the [Joint Graduate School of Mathematics for Innovation (JPMI)](https://www.jgmi.kyushu-u.ac.jp/en/) at Kyushu University, Japan. I earned my Ph.D. in Mathematics from Kyushu University under the supervision of Professor [Hiroki Masuda](https://www.ms.u-tokyo.ac.jp/~hmasuda/hmhp.html). My research lies at the intersection of probability theory, statistics, and deep learning, with a particular emphasis on stochastic differential equations and their applications.
 
