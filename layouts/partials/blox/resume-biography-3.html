@@ -126,21 +126,26 @@
 
   <div class="grid grid-cols-1 md:grid-cols-2 gap-4 justify-between mt-6 dark:text-gray-300">
 
-    {{/* ———  Contact Info  ——— */}}
     {{ if or $person.email $person.address }}
       <div class="mt-4 text-base">
         <p class="font-semibold">Contact&nbsp;Info</p>
+    
         {{ with $person.email }}
-          <p class="flex items-center gap-2">
-            {{ partial "functions/get_icon" (dict "name" "at-symbol" "attributes" "class='w-4 h-4'") }}
-            {{ . }}
-          </p>
+          <div class="flex items-start gap-2">
+            <span class="flex-shrink-0 w-4 h-4 mt-1">
+              {{ partial "functions/get_icon" (dict "name" "at-symbol" "attributes" "class='w-4 h-4'") }}
+            </span>
+            <span><a href="mailto:{{ . }}">{{ . }}</a></span>
+          </div>
         {{ end }}
+    
         {{ with $person.address }}
-          <p class="flex items-center gap-2">
-            {{ partial "functions/get_icon" (dict "name" "at-symbol" "attributes" "class='w-4 h-4'") }}
-            {{ . }}
-          </p>
+          <div class="flex items-start gap-2">
+            <span class="flex-shrink-0 w-5 h-5 mt-1">
+              {{ partial "functions/get_icon" (dict "name" "map-pin" "attributes" "class='w-5 h-5'") }}
+            </span>
+            <span>{{ . }}</span>
+          </div>
         {{ end }}
       </div>
     {{ end }}
