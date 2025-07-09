@@ -33,18 +33,18 @@ profiles:
   - icon: at-symbol
     url: 'chengyuzhong40@gmail.com'
     label: E-mail Me
-  - icon: '' #brands/x
-    url: '' #https://twitter.com/GetResearchDev
-  - icon: '' #brands/instagram
-    url: '' #https://www.instagram.com/
-  - icon: '' #brands/github
-    url: '' #https://github.com/gcushen
-  - icon: '' #brands/linkedin
-    url: '' #https://www.linkedin.com/
+  #- icon: '' #brands/x
+  #  url: '' #https://twitter.com/GetResearchDev
+  #- icon: '' #brands/instagram
+  #  url: '' #https://www.instagram.com/
+  #- icon: '' #brands/github
+  #  url: '' #https://github.com/gcushen
+  #- icon: '' #brands/linkedin
+  #  url: '' #https://www.linkedin.com/
   - icon: academicons/google-scholar
     url: https://scholar.google.com/citations?user=nQTEd-8AAAAJ&hl=zh-CN
-  - icon: '' #academicons/orcid
-    url: '' #https://orcid.org/
+  #- icon: '' #academicons/orcid
+  #  url: '' #https://orcid.org/
 
 #interests:
 #  - Artificial Intelligence
