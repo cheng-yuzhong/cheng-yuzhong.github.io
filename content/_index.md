@@ -20,7 +20,7 @@ sections:
         url: uploads/resume.pdf
     design:
       css_class: dark
-      yaml background: color: "#14346b" # 深蓝 text_color_light: true
+      background: color: "#14346b" # 深蓝 text_color_light: true
   - block: markdown
     content:
       title: '📚 My Research'
