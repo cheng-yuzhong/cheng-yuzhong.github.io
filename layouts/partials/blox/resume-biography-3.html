@@ -1,5 +1,3 @@
-{{/*  自定义开关：默认显示，除非页面 design.show_education = false */}}
-{{ $show_education := $block.design.show_education | default true }}
 
 {{/* Hugo Blox: Biography 3 */}}
 {{/* Documentation: https://hugoblox.com/blocks/ */}}
@@ -8,6 +6,9 @@
 {{/* Initialise */}}
 {{ $page := .wcPage }}
 {{ $block := .wcBlock }}
+
+{{/*  自定义开关：默认显示，除非页面 design.show_education = false */}}
+{{ $show_education := $block.design.show_education | default true }}
 
 {{ $author := $block.content.username | default "admin" }}
 
