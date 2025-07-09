@@ -42,6 +42,17 @@ sections:
     design:
       columns: '1'
   - block: collection
+    id: experience
+    content:
+      title: Experience
+      filters:
+        folders:
+          - experience     # ← 读取原来 experience/ 文件夹里的条目
+    design:
+      view: card
+      columns: 1
+
+  - block: collection
     id: papers
     content:
       title: Featured Publications
