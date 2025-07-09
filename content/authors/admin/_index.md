@@ -51,6 +51,10 @@ profiles:
 #  - Computational Linguistics
 #  - Information Retrieval
 
+email: chengyuzhong40@gmail.com
+address: 744 Motooka, Nishi-ku, Fukuoka, Japan
+
+
 education:
   - area: PhD Artificial Intelligence
     institution: Stanford University
