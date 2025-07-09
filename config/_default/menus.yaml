@@ -11,7 +11,7 @@ main:
     url: Research/      
     weight: 11  
   - name: Experience
-    url: /#experience
+    url: experience/
     weight: 13
   # - name: Papers
   #   url: /#papers
