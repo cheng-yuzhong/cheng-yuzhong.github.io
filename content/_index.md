@@ -20,7 +20,15 @@ sections:
         url: uploads/resume.pdf
     design:
       css_class: dark
-      background: color: "#14346b" # 深蓝 text_color_light: true
+      background:
+        color: black          # ← 背景纯色
+        image:
+          filename: stacked-peaks.svg   # ← 叠峰矢量图
+          filters:
+            brightness: 1.0
+          size: cover
+          position: center
+          parallax: false
   - block: markdown
     content:
       title: '📚 My Research'
