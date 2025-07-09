@@ -47,7 +47,7 @@ sections:
       title: Experience
       filters:
         folders:
-          -experience
+          - experience
     design:
       view: card
       columns: 1
