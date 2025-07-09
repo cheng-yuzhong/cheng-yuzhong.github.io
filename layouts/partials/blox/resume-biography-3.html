@@ -133,7 +133,7 @@
         {{ with $person.email }}
           <div class="flex items-start gap-2">
             <span class="flex-shrink-0 w-4 h-4 mt-1">
-              {{ partial "functions/get_icon" (dict "name" "mail" "attributes" "class='flex-shrink-0 w-5 h-5 mt-1 stroke-current'") }}
+              {{ partial "functions/get_icon" (dict "name" "at-sign" "attributes" "class='flex-shrink-0 w-4 h-4 mt-1 stroke-current'") }}
             </span>
             <span><a href="mailto:{{ . }}">{{ . }}</a></span>
           </div>
