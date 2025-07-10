@@ -1,7 +1,7 @@
 ---
 title: Estimation of ergodic square-root diffusion under high-frequency sampling
 authors:
-- Yuzhong Cheng
+- admin
 - Nicole Hufnagel
 - Hiroki Masuda
 date: '2024-10-01'
