@@ -2,13 +2,13 @@
 title: Efficient estimation of ergodic square-root diffusion
 
 event: BIC symposium
-event_url: 
+event_url: ""
 
 location: Kyushu University, Japan
-address:
+address: ""
 
-summary: 
-abstract:
+summary: ""
+abstract: ""
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
@@ -28,8 +28,8 @@ tags: []
 featured: false
 
 #image:
-  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/bzdhc5b3Bxs)'
-  focal_point: Right
+#  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/bzdhc5b3Bxs)'
+#  focal_point: Right
 
 #links:
 #  - icon: twitter
