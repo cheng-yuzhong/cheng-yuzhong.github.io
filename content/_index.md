@@ -100,8 +100,6 @@ sections:
         folders:
           - event
     design:
-      view: date-title
-      show_meta: ["event", "location"]
-      meta_join: ", "
+      view: date-title-summary
       columns: 1
 ---
