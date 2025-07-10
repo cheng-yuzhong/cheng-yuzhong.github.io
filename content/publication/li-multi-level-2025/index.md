@@ -3,7 +3,7 @@ title: 'Multi-level PEnet: A Robust Three-Stage Model for Parameter Estimation i
   Non-Gaussian Noise-Driven Stochastic Differential Equations'
 authors:
 - Shuaiyu Li
-- Yuzhong Cheng
+- admin
 - Yang Ruan
 - Hiroto Saigo
 date: '2025-05-01'
