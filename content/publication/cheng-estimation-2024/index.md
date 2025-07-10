@@ -22,4 +22,5 @@ abstract: Gaussian quasi-likelihood estimation of the parameter in the square-ro
 links:
 - name: URL
   url: https://linkinghub.elsevier.com/retrieve/pii/S2452306222000727
+share: false
 ---
