@@ -1,7 +1,7 @@
 ---
 title: 'Deep Learning-Based Method for Weather Forecasting: A Case Study in Itoshima'
 authors:
-- Yuzhong Cheng
+- admin
 - Linh Thi Hoai Nguyen
 - Akinori Ozaki
 - Ton Viet Ta
