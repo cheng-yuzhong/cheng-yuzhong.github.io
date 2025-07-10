@@ -6,7 +6,7 @@ authors:
 - Yang Ruan
 - Weichao Lv
 - Shuaiyu Li
-- Yuzhong Cheng
+- admin
 - Duanyang Wang
 - Chaofeng Zhang
 - Kuniyoshi Shimizu
