@@ -30,23 +30,23 @@ sections:
           size: cover
           position: center
           parallax: false
-- block: markdown
-  content:
-    title: "📚 My Research"
-    subtitle: ""
-    text: |-  
-      My work sits at the intersection of **probability theory**, **statistics**, and **deep learning**.  
-      At the moment, I focus on **statistical inference for stochastic differential equations (SDEs)**.
-
-      **Current interests**
-
-      - **Statistical inference for SDEs** – efficient parameter estimation, high-frequency sampling, asymptotic theory  
-      - **Deep-learning–based calibration of stochastic models** – network for SDEs
-      - **Fluctuations of interacting particle systems** – limit theorems, large-deviations
-
-      Feel free to reach out if you’re interested in collaborating 😃
-  design:
-    columns: "1"
+  - block: markdown
+    content:
+      title: "📚 My Research"
+      subtitle: ""
+      text: |-  
+        My work sits at the intersection of **probability theory**, **statistics**, and **deep learning**.  
+        At the moment, I focus on **statistical inference for stochastic differential equations (SDEs)**.
+  
+        **Current interests**
+  
+        - **Statistical inference for SDEs** – efficient parameter estimation, high-frequency sampling, asymptotic theory  
+        - **Deep-learning–based calibration of stochastic models** – network for SDEs
+        - **Fluctuations of interacting particle systems** – limit theorems, large-deviations
+  
+        Feel free to reach out if you’re interested in collaborating 😃
+    design:
+      columns: "1"
   - block: collection
     id: news
     content:
