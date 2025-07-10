@@ -18,6 +18,7 @@ abstract: This study explores a Gaussian quasi-likelihood approach for estimatin
 links:
 - name: URL
   url: https://www.aimsciences.org/en/article/doi/10.3934/dcdsb.2025056
+share: false
 ---
 
 
