@@ -5,16 +5,15 @@ subtitle: ""
 type: landing
 # Optional: 在页面顶显示封面色
 design:
-  background:
-    color: "#F8FBFF"
-    text_color_light: false
+  spacing: '5rem'
 
 sections:
   - block: collection        # --- Papers 区块 ---
     content:
       title: Publications
       filters:
-        folders: [publication]
+        folders:
+          - publication
     design:
       view: citation
 
@@ -22,7 +21,8 @@ sections:
     content:
       title: Talks
       filters:
-        folders: [event]
+        folders:
+          - event
     design:
       view: article-grid
       columns: 1
