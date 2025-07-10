@@ -20,5 +20,6 @@ links:
   url: https://www.aimsciences.org/en/article/doi/10.3934/dcdsb.2025056
 ---
 
-**supplementary notes**
+**supplementary notes**  
+
 Correction to Lemma 6.2 is given in the arXiv https://arxiv.org/abs/2410.11333
