@@ -58,6 +58,3 @@ features:
     enable: false
   privacy_pack:
     enable: false
-# close share button: all pages
-page:
-  share: false
