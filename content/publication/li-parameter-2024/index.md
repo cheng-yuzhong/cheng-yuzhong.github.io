@@ -3,7 +3,7 @@ title: Parameter estimation and random number generation for student Lévy proce
 authors:
 - Shuaiyu Li
 - Yunpei Wu
-- Yuzhong Cheng
+- admin
 date: '2024-06-01'
 publishDate: '2025-07-10T02:52:12.115348Z'
 publication_types:
