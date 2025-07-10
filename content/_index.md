@@ -51,7 +51,7 @@ sections:
       # Page type to display. E.g. post, talk, publication...
       page_type: post
       # Choose how many pages you would like to display (0 = all pages)
-      count: 5
+      count: 4
       # Filter on criteria
       filters:
         author: ""
@@ -100,6 +100,6 @@ sections:
         folders:
           - event
     design:
-      view: article-grid
+      view: date-title
       columns: 1
 ---
