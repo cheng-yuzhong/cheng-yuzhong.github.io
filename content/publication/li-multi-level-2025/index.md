@@ -31,11 +31,8 @@ tags:
 - Parameter Estimation
 - Probabilistic Methods
 - Simulation and Stochastic Differential Equations
-- Stochastic Differential Equation
-- Stochastic Differential Equations
 - Stochastic Learning and Adaptive Control
 - Stochastic Modelling
-- Stochastic Ordinary Differential Equations
 links:
 - name: URL
   url: https://doi.org/10.1007/s11071-025-11318-6
