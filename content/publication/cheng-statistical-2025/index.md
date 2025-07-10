@@ -1,7 +1,7 @@
 ---
 title: Statistical inference for ergodic diffusion with Markovian switching
 authors:
-- Yuzhong Cheng
+- admin
 - Hiroki Masuda
 date: '2025-10-01'
 publishDate: '2025-07-10T02:52:12.130151Z'
@@ -19,3 +19,5 @@ links:
 - name: URL
   url: https://www.aimsciences.org/en/article/doi/10.3934/dcdsb.2025056
 ---
+
+**supplementary notes**
