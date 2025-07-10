@@ -30,18 +30,23 @@ sections:
           size: cover
           position: center
           parallax: false
-  - block: markdown
-    content:
-      title: '📚 My Research'
-      subtitle: ''
-      text: |-
-        Use this area to speak to your mission. I'm a research scientist in the Moonshot team at DeepMind. I blog about machine learning, deep learning, and moonshots.
+- block: markdown
+  content:
+    title: "📚 My Research"
+    subtitle: ""
+    text: |-  
+      My work sits at the intersection of **probability theory**, **statistics**, and **deep learning**.  
+      At the moment, I focus on **statistical inference for stochastic differential equations (SDEs)**.
 
-        I apply a range of qualitative and quantitative methods to comprehensively investigate the role of science and technology in the economy.
-        
-        Please reach out to collaborate 😃
-    design:
-      columns: '1'
+      **Current interests**
+
+      - **Statistical inference for SDEs** – efficient parameter estimation, high-frequency sampling, asymptotic theory  
+      - **Deep-learning–based calibration of stochastic models** – network for SDEs
+      - **Fluctuations of interacting particle systems** – limit theorems, large-deviations
+
+      Feel free to reach out if you’re interested in collaborating 😃
+  design:
+    columns: "1"
   - block: collection
     id: news
     content:
