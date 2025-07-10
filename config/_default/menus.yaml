@@ -11,7 +11,7 @@ main:
     url: /#news
     weight: 13
   - name: Research
-    url: Research/      
+    url: research/      
     weight: 11  
   - name: Experience
     url: experience/
