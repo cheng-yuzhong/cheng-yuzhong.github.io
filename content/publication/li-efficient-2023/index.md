@@ -29,17 +29,16 @@ abstract: This study addresses the challenges in parameter estimation of stochas
   estimation in the presence of Levy noise.
 tags:
 - Convolutional neural network
-- Differential equations
 - Estimation error
 - Feature extraction
 - Long short-term memory
 - Neural networks
 - Parameter estimation
-- Parametric estimation
 - SDEs
 - Stochastic processes
 - Training
 links:
 - name: URL
   url: https://ieeexplore.ieee.org/document/10459988
+share: false
 ---
