@@ -7,7 +7,7 @@ event_url: ""
 location: Kyushu University, Japan
 address: ""
 
-summary: "BIC Symposium, Kyushu University, Japan"
+summary: ""
 abstract: ""
 
 # Talk start and end times.
