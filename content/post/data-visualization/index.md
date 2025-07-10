@@ -7,8 +7,8 @@ authors:
 tags:
   - announcement
   - career
-image:
-  caption: Image credit: [**Unsplash**](https://unsplash.com)
+#image:
+#  caption: Image credit: [**Unsplash**](https://unsplash.com)
 share: false        # 关闭社交分享按钮
 ---
 
