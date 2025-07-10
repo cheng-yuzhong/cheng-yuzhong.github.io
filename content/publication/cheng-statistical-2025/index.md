@@ -21,3 +21,4 @@ links:
 ---
 
 **supplementary notes**
+Correction to Lemma 6.2 is given in the arXiv https://arxiv.org/abs/2410.11333
