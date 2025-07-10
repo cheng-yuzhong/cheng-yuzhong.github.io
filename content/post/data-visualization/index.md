@@ -24,7 +24,7 @@ Save your Plotly JSON in your page folder, for example `line-chart.json`, and th
 
 Demo:
 
-{{< chart data="line-chart" >}}
+
 
 You might also find the [Plotly JSON Editor](http://plotly-json-editor.getforge.io/) useful.
 
