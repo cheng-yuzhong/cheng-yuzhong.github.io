@@ -1,7 +1,7 @@
 ---
 title: Quasi-likelihood-based EM algorithm for regime-switching SDE
 authors:
-- Yuzhong Cheng
+- admin
 - Hiroki Masuda
 date: '2024-12-01'
 publishDate: '2025-07-10T02:52:12.136885Z'
