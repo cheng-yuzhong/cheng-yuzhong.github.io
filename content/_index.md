@@ -101,5 +101,7 @@ sections:
           - event
     design:
       view: date-title
+      show_meta: ["event", "location"]
+      meta_join: ", "
       columns: 1
 ---
