@@ -60,17 +60,14 @@ education:
     institution: Kyushu University
     date_start: 2021-04-01
     date_end: 2025-03-25
-    #summary: |
   - area: MSc Mathematics
     institution: Kyushu University
     date_start: 2019-04-01
     date_end: 2021-03-25
-    #summary: |
   - area: BSc Mathematics and Applied Mathematics
     institution: East China University of Science and Technology
     date_start: 2014-09-01
     date_end: 2018-06-30
-    #summary: |
 work:
   - position: Postdoctoral researcher
     company_name: IMI, Kyushu University
@@ -78,14 +75,12 @@ work:
     company_logo: ''
     date_start: 2025-08-01
     date_end: ''
-    #summary: |
   - position: Research Assistant
     company_name: JGMI, Kyushu University
     company_url: ''
     company_logo: ''
     date_start: 2021-04-01
     date_end: 2022-03-31
-    #summary: |
 
 # Skills
 # Add your own SVG icons to `assets/media/icons/`
