@@ -56,60 +56,36 @@ address: 744 Motooka, Nishi-ku, Fukuoka, Japan
 
 
 education:
-  - area: PhD Artificial Intelligence
-    institution: Stanford University
-    date_start: 2016-01-01
-    date_end: 2020-12-31
-    summary: |
-      Thesis on _Why LLMs are awesome_. Supervised by [Prof Joe Smith](https://example.com). Presented papers at 5 IEEE conferences with the contributions being published in 2 Springer journals.
-    button:
-      text: 'Read Thesis'
-      url: 'https://example.com'
-  - area: MEng Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    date_start: 2016-01-01
-    date_end: 2020-12-31
-    summary: |
-      GPA: 3.8/4.0
-
-      Courses included:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - area: BSc Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    date_start: 2016-01-01
-    date_end: 2020-12-31
-    summary: |
-      GPA: 3.4/4.0
-      
-      Courses included:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+  - area: PhD Mathematics
+    institution: Kyushu University
+    date_start: 2021-04-01
+    date_end: 2025-03-25
+    #summary: |
+  - area: MSc Mathematics
+    institution: Kyushu University
+    date_start: 2019-04-01
+    date_end: 2021-03-25
+    #summary: |
+  - area: BSc Mathematics and Applied Mathematics
+    institution: East China University of Science and Technology
+    date_start: 2014-09-01
+    date_end: 2018-06-30
+    #summary: |
 work:
-  - position: Director of Cloud Infrastructure
-    company_name: GenCoin
+  - position: Postdoctoral researcher
+    company_name: IMI, Kyushu University
     company_url: ''
     company_logo: ''
-    date_start: 2021-01-01
+    date_start: 2025-08-01
     date_end: ''
-    summary: |2-
-      Responsibilities include:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - position: Backend Software Engineer
-    company_name: X
+    #summary: |
+  - position: Research Assistant
+    company_name: JGMI, Kyushu University
     company_url: ''
     company_logo: ''
-    date_start: 2016-01-01
-    date_end: 2020-12-31
-    summary: |
-      Responsibilities include:
-      - Migrated infrastructure to a new data center
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+    date_start: 2021-04-01
+    date_end: 2022-03-31
+    #summary: |
 
 # Skills
 # Add your own SVG icons to `assets/media/icons/`
