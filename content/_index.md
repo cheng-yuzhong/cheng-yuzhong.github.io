@@ -24,7 +24,7 @@ sections:
       background:
         color: black          # ← 背景纯色
         image:
-          filename: stacked-peaks.svg   # ← 叠峰矢量图
+          filename: endless-constellation.svg   # ← 叠峰矢量图
           filters:
             brightness: 1.0
           size: cover
